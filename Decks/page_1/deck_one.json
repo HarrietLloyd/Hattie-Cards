@@ -1,0 +1,58 @@
+[
+	{
+		"front":"Question 1?",
+		"back":"Answer 1.",
+		"picture":"",
+		"sound":"",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 2?",
+		"back":"Answer 2.",
+		"picture":"",
+		"sound":"",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 3?",
+		"back":"Answer 3.",
+		"picture":"",
+		"sound":"",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 4?",
+		"back":"Answer 4.",
+		"picture":"",
+		"sound":"",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 5?",
+		"back":"Answer 5.",
+		"picture":"",
+		"sound":"",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 6?",
+		"back":"Answer 6.",
+		"picture":"",
+		"sound":"",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 7?",
+		"back":"Answer 7.",
+		"picture":"",
+		"sound":"",
+		"cardType":"short",
+		"listen":true
+	}
+]

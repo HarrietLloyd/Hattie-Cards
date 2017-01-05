@@ -1,0 +1,65 @@
+[
+	{
+		"front":"Question 1?",
+		"back":"Answer 1.",
+		"picture":"picturefile1.png",
+		"sound":"soundfile1.wav",
+		"classification":"category",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 2?",
+		"back":"Answer 2.",
+		"picture":"picturefile2.png",
+		"sound":"soundfile2.wav",
+		"classification":"category",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 3?",
+		"back":"Answer 3.",
+		"picture":"picturefile3.png",
+		"sound":"soundfile3.wav",
+		"classification":"category",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 4?",
+		"back":"Answer 4.",
+		"picture":"picturefile4.png",
+		"sound":"soundfile4.wav",
+		"classification":"category",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 5?",
+		"back":"Answer 5.",
+		"picture":"picturefile5.png",
+		"sound":"soundfile5.wav",
+		"classification":"category",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 6?",
+		"back":"Answer 6.",
+		"picture":"picturefile6.png",
+		"sound":"soundfile6.wav",
+		"classification":"category",
+		"cardType":"short",
+		"listen":true
+	},
+	{
+		"front":"Question 7?",
+		"back":"Answer 7.",
+		"picture":"picturefile7.png",
+		"sound":"soundfile7.wav",
+		"classification":"category",
+		"cardType":"short",
+		"listen":true
+	}
+]

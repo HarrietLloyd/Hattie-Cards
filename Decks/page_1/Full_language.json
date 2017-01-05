@@ -1,0 +1,74 @@
+[
+	{
+		"front":"Un gatto",
+		"back":"A cat",
+		"picture":"",
+		"sound":"gatto.ogg",
+		"cardType":"word_eng",
+		"listenFirst":false
+	},
+	{
+		"front":"A cat",
+		"back":"Un gatto",
+		"picture":"",
+		"sound":"gatto.ogg",
+		"cardType":"word_itl",
+		"listenFirst":false
+	},
+	{
+		"front":"",
+		"back":"Un gatto",
+		"picture":"",
+		"sound":"gatto.ogg",
+		"cardType":"listen_itl",
+		"listenFirst":true
+	},
+	{
+		"front":"",
+		"back":"Un gatto",
+		"picture":"cat.png",
+		"sound":"gatto.ogg",
+		"cardType":"look_itl",
+		"listenFirst":false
+	},
+	{
+		"front":"Un cane",
+		"back":"A dog / A hammer",
+		"picture":"",
+		"sound":"cane.ogg",
+		"cardType":"word_eng",
+		"listenFirst":false
+	},
+	{
+		"front":"A dog",
+		"back":"Un cane",
+		"picture":"",
+		"sound":"cane.ogg",
+		"cardType":"word_itl",
+		"listenFirst":false
+	},
+	{
+		"front":"A hammer",
+		"back":"Un cane",
+		"picture":"",
+		"sound":"cane.ogg",
+		"cardType":"word_itl",
+		"listenFirst":false
+	},
+	{
+		"front":"",
+		"back":"Un cane",
+		"picture":"",
+		"sound":"cane.ogg",
+		"cardType":"listen_itl",
+		"listenFirst":true
+	},
+	{
+		"front":"",
+		"back":"Un cane",
+		"picture":"dog.png",
+		"sound":"cane.ogg",
+		"cardType":"look_itl",
+		"listenFirst":false
+	}
+]

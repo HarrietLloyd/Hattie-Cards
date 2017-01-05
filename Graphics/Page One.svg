@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="deck_buttons.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5572"
+       id="linearGradient5576"
+       x1="0.64999998"
+       y1="300.36221"
+       x2="800.65002"
+       y2="300.36221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.96846305,-85.13687)" />
+    <linearGradient
+       id="linearGradient5572"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff8b03;stop-opacity:1;"
+         offset="0"
+         id="stop5574" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4541164"
+     inkscape:cx="332.98572"
+     inkscape:cy="1036.6805"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4443"
+       inkscape:export-filename="C:\wamp\www\Flashcards\Decks\page_1\deck_one.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4316"
+         width="200"
+         height="100"
+         x="0"
+         y="0.36221313"
+         ry="20"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <rect
+         ry="18"
+         y="5.3622131"
+         x="5"
+         height="90"
+         width="190"
+         id="rect4318"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         style="opacity:1;fill:#ffd42b;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4320"
+         width="180"
+         height="80"
+         x="10"
+         y="10.362213"
+         ry="16" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4155"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-23.187704,4.3754058)"
+       inkscape:export-filename="C:\wamp\www\Flashcards\Decks\page_1\deck_one.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4157"><rect
+           id="rect4159"
+           width="195.71428"
+           height="67.14286"
+           x="24.285715"
+           y="27.719345"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara4161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Candara;-inkscape-font-specification:Candara;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Deck one</flowPara></flowRoot>    <g
+       id="g4455"
+       inkscape:export-filename="C:\wamp\www\Flashcards\Decks\page_1\deck_two.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         ry="20"
+         y="0.36221313"
+         x="200"
+         height="100"
+         width="200"
+         id="rect4335"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4337"
+         width="190"
+         height="90"
+         x="205"
+         y="5.3622131"
+         ry="18" />
+      <rect
+         ry="16"
+         y="10.362213"
+         x="210"
+         height="80"
+         width="180"
+         id="rect4340"
+         style="opacity:1;fill:#ff8b03;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+    </g>
+    <g
+       id="g4239">
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3420"
+         width="200"
+         height="100"
+         x="0"
+         y="200.36221"
+         ry="20" />
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         ry="18"
+         y="205.36221"
+         x="5"
+         height="90"
+         width="190"
+         id="rect3422"
+         style="opacity:1;fill:#da6aff;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         transform="translate(-22.500001,195)"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="flowRoot3424"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3426"><rect
+             style="stroke:#000000;stroke-opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.3;stroke-miterlimit:4;stroke-dasharray:none"
+             y="27.719345"
+             x="24.285715"
+             height="67.14286"
+             width="195.71428"
+             id="rect3428" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';text-align:center;text-anchor:middle;stroke:#000000;stroke-opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.3;stroke-miterlimit:4;stroke-dasharray:none"
+           id="flowPara3430">Deck four</flowPara></flowRoot>    </g>
+    <g
+       id="g4207">
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         ry="20"
+         y="200.36221"
+         x="200"
+         height="100"
+         width="200"
+         id="rect3432"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         style="opacity:1;fill:#f94d3e;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3434"
+         width="190"
+         height="90"
+         x="205"
+         y="205.36221"
+         ry="18" />
+      <flowRoot
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         xml:space="preserve"
+         id="flowRoot3436"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(177.5,195)"><flowRegion
+           id="flowRegion3438"><rect
+             id="rect3440"
+             width="195.71428"
+             height="67.14286"
+             x="24.285715"
+             y="27.719345"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara4360"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Deck three</flowPara></flowRoot>    </g>
+    <g
+       id="g4468"
+       inkscape:export-filename="C:\wamp\www\Flashcards\Decks\page_1\language.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         ry="20"
+         y="100.36221"
+         x="0"
+         height="100"
+         width="200"
+         id="rect3396"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4285"
+         width="190"
+         height="90"
+         x="5"
+         y="105.36221"
+         ry="18" />
+      <rect
+         ry="16"
+         y="110.36221"
+         x="10"
+         height="80"
+         width="180"
+         id="rect4283"
+         style="opacity:1;fill:#90ff2a;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+    </g>
+    <g
+       id="g4480"
+       inkscape:export-filename="C:\wamp\www\Flashcards\Decks\page_1\maths.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4336"
+         width="200"
+         height="100"
+         x="200"
+         y="100.36221"
+         ry="20"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <rect
+         ry="18"
+         y="105.36221"
+         x="205"
+         height="90"
+         width="190"
+         id="rect4338"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="C:\wamp\www\Flashcards\data\deck_buttons.png"
+         style="opacity:1;fill:#6aa8ff;fill-opacity:1;stroke:none;stroke-width:0.66000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4281"
+         width="180"
+         height="80"
+         x="210"
+         y="110.36221"
+         ry="16" />
+    </g>
+    <rect
+       style="opacity:1;fill:url(#linearGradient5576);fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3336"
+       width="800"
+       height="75"
+       x="1.618463"
+       y="-84.774666"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.825607"
+       y="-34.203239"
+       id="text7828"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7830"
+         x="23.825607"
+         y="-34.203239"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Candara;-inkscape-font-specification:Candara">Flashcards</tspan></text>
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\wamp\www\Flashcards\Decks\page_1\deck_two.png"
+       transform="translate(176.8123,4.3754058)"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot4506"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4508"><rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="27.719345"
+           x="24.285715"
+           height="67.14286"
+           width="195.71428"
+           id="rect4510" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Candara;-inkscape-font-specification:Candara;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara4512">Deck two</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\wamp\www\Flashcards\Decks\page_1\language.png"
+       transform="translate(-23.187704,104.3754)"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot4514"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4516"><rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="27.719345"
+           x="24.285715"
+           height="67.14286"
+           width="195.71428"
+           id="rect4518" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Candara;-inkscape-font-specification:Candara;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara4520">Language</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4522"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(176.8123,104.3754)"
+       inkscape:export-filename="C:\wamp\www\Flashcards\Decks\page_1\maths.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4524"><rect
+           id="rect4526"
+           width="195.71428"
+           height="67.14286"
+           x="24.285715"
+           y="27.719345"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara4528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Candara;-inkscape-font-specification:Candara;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Maths</flowPara></flowRoot>  </g>
+</svg>
